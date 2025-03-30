@@ -58,23 +58,39 @@ p {
     text-transform: uppercase;
     font-size: 1.5vw;
     font-family: 'Work Sans', sans-serif;
-  }
+}
   
 img {
     z-index: 1;
     bottom: 5%;
     height: 30%;
-  }
+}
   
-  .image-container {
+.image-container {
     display: flex;
     z-index: 1;
     height: 20%;
     width: 100%;
     justify-content: center;
-  }
+}
   
-  img, canvas {
+img, canvas {
     cursor: pointer;
     position: absolute;
-  }
+}
+
+#avatar1 {
+  display: block;
+}
+#avatar2 {
+  display: none;
+}
+#avatar3 {
+  display: none;
+}
+#avatar4 {
+  display: none;
+}
+#avatar5 {
+  display: none;
+}
