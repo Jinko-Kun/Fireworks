@@ -78,19 +78,3 @@ img, canvas {
     cursor: pointer;
     position: absolute;
 }
-
-#avatar1 {
-  display: block;
-}
-#avatar2 {
-  display: none;
-}
-#avatar3 {
-  display: none;
-}
-#avatar4 {
-  display: none;
-}
-#avatar5 {
-  display: none;
-}
